@@ -1,2 +1,0 @@
-# Sergioqv
-practicas MAC
